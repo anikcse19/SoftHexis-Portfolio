@@ -61,7 +61,7 @@ const teamData = [
 
   {
     name: "Fatema Tuz Zohra",
-    role: "UI/UX Designer",
+    role: "UI/UX Designer & Video Editor",
     bio: "Fatema is a UI/UX designer with a passion for creating intuitive and visually appealing user experiences, focusing on user-centered design principles.",
     image: samihaPic,
     social: {
@@ -72,7 +72,7 @@ const teamData = [
   },
   {
     name: "Payel Tilak",
-    role: "SEO Specialist & Digital Marketer",
+    role: "Video Editor & Digital Marketer",
     bio: "Payel is an SEO specialist with a deep understanding of search engine algorithms and a passion for optimizing websites to improve visibility and traffic.",
     image: payelPic,
     social: {
